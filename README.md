@@ -8,6 +8,9 @@ nyttige øvelser
 
 -[Er det jul](https://isitchristmas.com)
 
+-[er det fredag?](https://erdetfredag.dk)
+
+
 ## Eksempel formatering:
 
 1.*kursiv* tekst.
