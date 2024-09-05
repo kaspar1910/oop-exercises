@@ -13,8 +13,10 @@ nyttige øvelser
 
 ## Eksempel formatering:
 
+
 1.*kursiv* tekstfont.
 2.**fed** tekstfont.
+
 
 
 
