@@ -13,8 +13,8 @@ nyttige øvelser
 
 ## Eksempel formatering:
 
-1.*kursiv* fremhævning.
-2.**fed** fremhævning.
+1.*kursiv* tekstfont.
+2.**fed** tekstfont.
 
 
 
